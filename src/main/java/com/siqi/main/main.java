@@ -20,5 +20,4 @@ public class main {
             // 退出程序
             System.exit(0);
         }
-
-    }
+}

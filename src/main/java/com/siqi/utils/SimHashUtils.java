@@ -2,12 +2,11 @@ package com.siqi.utils;
 
 import com.hankcs.hanlp.HanLP;
 import com.siqi.exception.ShortStringException;
-
 import java.math.BigInteger;
 import java.security.MessageDigest;
 import java.util.List;
 
-    public class SimHashUtils {
+public class SimHashUtils {
         /**
          * 传入String，计算出它的hash值，并以字符串形式输出
          * @param str 传入的Srting类型字符串
@@ -80,4 +79,3 @@ import java.util.List;
         }
 
     }
-}
